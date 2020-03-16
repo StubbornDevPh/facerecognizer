@@ -1,0 +1,3 @@
+import dashboard
+dashboard.open()
+
